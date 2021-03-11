@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_todos_redux/date_select_button.dart';
 import 'package:flutter_todos_redux/models/catergory_model.dart';
